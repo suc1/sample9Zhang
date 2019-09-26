@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# momentics
+.metadata
+.cproject
+.project
+.settings
+
